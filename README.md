@@ -32,10 +32,14 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+<img width="1280" height="747" alt="image" src="https://github.com/user-attachments/assets/8b363f67-6ba6-4b39-a71f-bbad2299038d" />
+<img width="1171" height="1050" alt="image" src="https://github.com/user-attachments/assets/03ab4459-9a36-4a19-9de9-f7b0806089a7" />
 
 
 GRAPH: 
+<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/2e0c6213-515f-475b-be25-4dd9f18d13e4" />
 
 
 RESULT:
+Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
 
